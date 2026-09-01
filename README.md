@@ -788,7 +788,7 @@ ROOM_503 = {
 
 ROOM_504 = {
     "room": "504",
-    "amount": 100,
+    "amount": 0,
     "validity": "UNLIMITED",
     "device": "UNKNOWN",
     "internet": "OFF",
