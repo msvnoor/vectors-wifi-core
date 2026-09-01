@@ -624,6 +624,450 @@ class NetworkDashboard:
 # ─────────────────────────────────────────────────────────────
 # Main Entry Point
 # ─────────────────────────────────────────────────────────────
+# VECTORS WiFi — COMPLETE ROOM REGISTRY
+# 42 Individual Room Profiles
+# ─────────────────────────────────────────────────────────────
+
+ROOM_401 = {
+    "room": "401",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_402 = {
+    "room": "402",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_403 = {
+    "room": "403",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_404 = {
+    "room": "404",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_405 = {
+    "room": "405",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_406 = {
+    "room": "406",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_407 = {
+    "room": "407",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_408 = {
+    "room": "408",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_409 = {
+    "room": "409",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_410 = {
+    "room": "410",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_411 = {
+    "room": "411",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_412 = {
+    "room": "412",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_413 = {
+    "room": "413",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_414 = {
+    "room": "414",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+
+# ─────────────────────────────────────────────────────────────
+# FLOOR 5
+# ─────────────────────────────────────────────────────────────
+
+ROOM_501 = {
+    "room": "501",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_502 = {
+    "room": "502",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_503 = {
+    "room": "503",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_504 = {
+    "room": "504",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_505 = {
+    "room": "505",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_506 = {
+    "room": "506",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_507 = {
+    "room": "507",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_508 = {
+    "room": "508",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_509 = {
+    "room": "509",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_510 = {
+    "room": "510",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_511 = {
+    "room": "511",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_512 = {
+    "room": "512",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_513 = {
+    "room": "513",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_514 = {
+    "room": "514",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+
+# ─────────────────────────────────────────────────────────────
+# FLOOR 6
+# ─────────────────────────────────────────────────────────────
+
+ROOM_601 = {
+    "room": "601",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_602 = {
+    "room": "602",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_603 = {
+    "room": "603",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_604 = {
+    "room": "604",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_605 = {
+    "room": "605",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_606 = {
+    "room": "606",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_607 = {
+    "room": "607",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_608 = {
+    "room": "608",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_609 = {
+    "room": "609",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_610 = {
+    "room": "610",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_611 = {
+    "room": "611",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_612 = {
+    "room": "612",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_613 = {
+    "room": "613",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+ROOM_614 = {
+    "room": "614",
+    "amount": 100,
+    "validity": "UNLIMITED",
+    "device": "UNKNOWN",
+    "internet": "OFF",
+    "auto_renew": True
+}
+
+
+# ─────────────────────────────────────────────────────────────
+# MASTER ROOM REGISTRY
+# ─────────────────────────────────────────────────────────────
+
+ROOM_REGISTRY = {
+    "401": ROOM_401,
+    "402": ROOM_402,
+    "403": ROOM_403,
+    "404": ROOM_404,
+    "405": ROOM_405,
+    "406": ROOM_406,
+    "407": ROOM_407,
+    "408": ROOM_408,
+    "409": ROOM_409,
+    "410": ROOM_410,
+    "411": ROOM_411,
+    "412": ROOM_412,
+    "413": ROOM_413,
+    "414": ROOM_414,
+
+    "501": ROOM_501,
+    "502": ROOM_502,
+    "503": ROOM_503,
+    "504": ROOM_504,
+    "505": ROOM_505,
+    "506": ROOM_506,
+    "507": ROOM_507,
+    "508": ROOM_508,
+    "509": ROOM_509,
+    "510": ROOM_510,
+    "511": ROOM_511,
+    "512": ROOM_512,
+    "513": ROOM_513,
+    "514": ROOM_514,
+
+    "601": ROOM_601,
+    "602": ROOM_602,
+    "603": ROOM_603,
+    "604": ROOM_604,
+    "605": ROOM_605,
+    "606": ROOM_606,
+    "607": ROOM_607,
+    "608": ROOM_608,
+    "609": ROOM_609,
+    "610": ROOM_610,
+    "611": ROOM_611,
+    "612": ROOM_612,
+    "613": ROOM_613,
+    "614": ROOM_614
+}
+# ─────────────────────────────────────────────────────────────
 def main():
     """Main system entry point"""
     
